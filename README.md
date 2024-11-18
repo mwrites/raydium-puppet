@@ -40,7 +40,7 @@ devnet-pow mine
 
 
 ### RPC
-I highly recommend you to use a paid RPC to get stable results with the tests, you can get a free tier with [helius](https://www.helius.dev/pricing).
+I highly recommend you to use a paid RPC to get stable results with the tests, you can get a free tier with [helius](https://www.helius.dev/pricing). Then modify and copy `.env.template` to `.env` and fill in your cluster urls.
 
 ### Rust Client Tests
 ```
