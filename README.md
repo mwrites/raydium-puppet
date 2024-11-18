@@ -38,6 +38,10 @@ cargo install devnet-pow
 devnet-pow mine
 ```
 
+
+### RPC
+I highly recommend you to use a paid RPC to get stable results with the tests, you can get a free tier with [helius](https://www.helius.dev/pricing).
+
 ### Rust Client Tests
 ```
 cargo test
