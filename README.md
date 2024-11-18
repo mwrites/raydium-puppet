@@ -31,7 +31,8 @@
 
 
 ### DevNet SOL
-You probably need around 7ish SOL to run the tests.
+You don't need much more than 2000 lamports to run the tests.
+If you intend to create your own market and pool you will need much more though:
 ```
 cargo install devnet-pow
 devnet-pow mine
