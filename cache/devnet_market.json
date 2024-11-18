@@ -1,0 +1,13 @@
+{
+  "address": {
+    "marketId": "42gVj8MDvnS86DcSeQ9B7W6ZWJnpfsJQ2QAw5buxTCxt",
+    "requestQueue": "9ZaZ9eE4xkrTbiNzeKZ747NEeM2jx4jQgPpYampcGbgS",
+    "eventQueue": "AxSzY6pxNaVcsMDGn7ZMY2xvQGrTRYsdFVJLXTfJsKt6",
+    "bids": "EVoRF1q3woGVXRV7NWy5wCoMWALkEASetPAeYUFBqVDq",
+    "asks": "zTemsKwK3ZhYQmds36Jzvi5uPdxxnvCpzL871aFXJtd",
+    "baseVault": "5EFyJw3aAsGHxLjyvmZ8HweCg3rVd4oSXPz7ydiD4aAz",
+    "quoteVault": "GUFcwKJg7f2TKk5tdF2qtZDZWE2bvUAwJuZB5qXFg7ms",
+    "baseMint": "7F3ptUU7n8e43A2xyniwcytvHt9m2JdEwCvjL5zu1ACC",
+    "quoteMin": "cV3hzMNEiY7FoSZghLWfc7dp164QQc8hZ5Aywt8tk7B"
+  }
+}
